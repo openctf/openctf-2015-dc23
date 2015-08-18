@@ -5,3 +5,5 @@ This repository contains the challenges that were opened during OpenCTF at Defco
 
 * challange\_downloads contains any items that were meant to be downloaded by players - offline-only challenges, clients, or key-free versions of servers
 * challange\_servers contains any items meant to be run on servers. These will be necessary to play some challenges, though if you investigate the items in this folder you may discover spoilers.
+
+Challenge names, point values, descriptions, and writeups are all available on https://ctftime.org/event/225/tasks/. You should post your own writeup there!
